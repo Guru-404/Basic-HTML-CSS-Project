@@ -1,21 +1,6 @@
-div {
+img {
   display: inline-block;
-  height: 100px;
-  width: 200px;
-}
-
-.style1 {
-  background-color: rgb(239, 116, 111);
-}
-
-.style2 {
-  background-color: #ecf081;
-}
-
-.style3 {
-  background-color: MediumSeaGreen;
-}
-
-.style4 {
-  background-color: rgb(171, 62, 91);
+  width: 245px;
+  height: 200px;
+  margin: 10px;
 }
